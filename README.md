@@ -3,8 +3,13 @@
 This project focuses on implementing a Transformer for Knowledge Tracing (KT) problems on the basis of the SAINT model (https://github.com/Shivanandmn/Knowledge-Tracing-SAINT). We adapted the input embedding and the model, and then tested the model on the ASSISTments2017 dataset. Compared to other transformer models' performance on ASSISTments2017 (AUC=0.7181), our model can increase the AUC by 2% (AUC=0.7301).
 
 ## Dataset
-### ASSISTment2017
-### Riiid
+#### ASSISTment2017
+#### Riiid
+
+## Usage
+#### TKT.ipynb
+A pipeline for ASSISTments data 
+#### DKT.ipynb
 
 ## References
 [1] https://github.com/Shivanandmn/Knowledge-Tracing-SAINT.
