@@ -4,12 +4,16 @@ This project focuses on implementing a Transformer for Knowledge Tracing (KT) pr
 
 ## Dataset
 [ASSISTment2017] (https://drive.google.com/drive/folders/1aCg5ln4mBeT1VWDBRq7XG4gBb46S4pra?usp=sharing)
+
 [Riiid] (https://drive.google.com/drive/folders/17YgOwy0X3-EIAZJw9DgXKG0pYJrVgz95?usp=sharing)
 
 ## Usage
 [TKT.ipynb] (./main/CSE543_Final_Project_TKT/TKT.ipynb)
+
 Predict KT problem using transformer. Recommended running environment: Google Colab.
+
 [DKT.ipynb] (./main/CSE543_Final_Project_TKT/DKT.ipynb)
+
 Predict KT problem using LSTM. Recommended running environment: Jupyter Notebook.
 
 ## References
