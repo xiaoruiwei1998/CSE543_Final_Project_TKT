@@ -3,16 +3,16 @@
 This project focuses on implementing a Transformer for Knowledge Tracing (KT) problems on the basis of the SAINT model (https://github.com/Shivanandmn/Knowledge-Tracing-SAINT). We adapted the input embedding and the model, and then tested the model on the ASSISTments2017 dataset. Compared to other transformer models' performance on ASSISTments2017 (AUC=0.7181), our model can increase the AUC by 2% (AUC=0.7301).
 
 ## Dataset
-[ASSISTment2017] (https://drive.google.com/drive/folders/1aCg5ln4mBeT1VWDBRq7XG4gBb46S4pra?usp=sharing)
+[ASSISTment2017](https://drive.google.com/drive/folders/1aCg5ln4mBeT1VWDBRq7XG4gBb46S4pra?usp=sharing)
 
-[Riiid] (https://drive.google.com/drive/folders/17YgOwy0X3-EIAZJw9DgXKG0pYJrVgz95?usp=sharing)
+[Riiid](https://drive.google.com/drive/folders/17YgOwy0X3-EIAZJw9DgXKG0pYJrVgz95?usp=sharing)
 
 ## Usage
-[TKT.ipynb] (./main/CSE543_Final_Project_TKT/TKT.ipynb)
+[TKT.ipynb](TKT.ipynb)
 
 Predict KT problem using transformer. Recommended running environment: Google Colab.
 
-[DKT.ipynb] (./main/CSE543_Final_Project_TKT/DKT.ipynb)
+[DKT.ipynb](DKT.ipynb)
 
 Predict KT problem using LSTM. Recommended running environment: Jupyter Notebook.
 
